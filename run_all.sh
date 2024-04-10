@@ -1,0 +1,2 @@
+./earn_all.sh
+
